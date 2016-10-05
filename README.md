@@ -1,4 +1,4 @@
-# COSD
+# COSD (Community Open Service of Development)
 Repository to report bugs encountered in LoE Realm.
 
 # Issues
