@@ -1,0 +1,999 @@
+126 row(s) affected Records: 126  Duplicates: 0  Warnings: 0
+
+126 row(s) affected Records: 126  Duplicates: 0  Warnings: 0
+
+125 row(s) affected Records: 125  Duplicates: 0  Warnings: 0
+
+124 row(s) affected Records: 124  Duplicates: 0  Warnings: 0
+
+124 row(s) affected Records: 124  Duplicates: 0  Warnings: 0
+
+125 row(s) affected Records: 125  Duplicates: 0  Warnings: 0
+
+128 row(s) affected Records: 128  Duplicates: 0  Warnings: 0
+
+83 row(s) affected Records: 83  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+0 row(s) affected
+
+1169 row(s) affected Records: 1169  Duplicates: 0  Warnings: 0
+
+1158 row(s) affected Records: 1158  Duplicates: 0  Warnings: 0
+
+1149 row(s) affected Records: 1149  Duplicates: 0  Warnings: 0
+
+1125 row(s) affected Records: 1125  Duplicates: 0  Warnings: 0
+
+1134 row(s) affected Records: 1134  Duplicates: 0  Warnings: 0
+
+1127 row(s) affected Records: 1127  Duplicates: 0  Warnings: 0
+
+1130 row(s) affected Records: 1130  Duplicates: 0  Warnings: 0
+
+1116 row(s) affected Records: 1116  Duplicates: 0  Warnings: 0
+
+786 row(s) affected Records: 786  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+226 row(s) affected Records: 226  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+119 row(s) affected Records: 119  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+114 row(s) affected Records: 114  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+114 row(s) affected Records: 114  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+114 row(s) affected Records: 114  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+118 row(s) affected Records: 118  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+117 row(s) affected Records: 117  Duplicates: 0  Warnings: 0
+
+116 row(s) affected Records: 116  Duplicates: 0  Warnings: 0
+
+115 row(s) affected Records: 115  Duplicates: 0  Warnings: 0
+
+9 row(s) affected Records: 9  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+2846 row(s) affected Records: 2846  Duplicates: 0  Warnings: 0
+
+2679 row(s) affected Records: 2679  Duplicates: 0  Warnings: 0
+
+2626 row(s) affected Records: 2626  Duplicates: 0  Warnings: 0
+
+2657 row(s) affected Records: 2657  Duplicates: 0  Warnings: 0
+
+2647 row(s) affected Records: 2647  Duplicates: 0  Warnings: 0
+
+2722 row(s) affected Records: 2722  Duplicates: 0  Warnings: 0
+
+1816 row(s) affected Records: 1816  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+877 row(s) affected Records: 877  Duplicates: 0  Warnings: 0
+
+863 row(s) affected Records: 863  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+860 row(s) affected Records: 860  Duplicates: 0  Warnings: 0
+
+556 row(s) affected Records: 556  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+0 row(s) affected
+
+0 row(s) affected
+
+0 row(s) affected
+
+149 row(s) affected Records: 149  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+4 row(s) affected Records: 4  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+0 row(s) affected
+
+0 row(s) affected
+
+475 row(s) affected Records: 475  Duplicates: 0  Warnings: 0
+
+473 row(s) affected Records: 473  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+477 row(s) affected Records: 477  Duplicates: 0  Warnings: 0
+
+468 row(s) affected Records: 468  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+481 row(s) affected Records: 481  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+480 row(s) affected Records: 480  Duplicates: 0  Warnings: 0
+
+480 row(s) affected Records: 480  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+487 row(s) affected Records: 487  Duplicates: 0  Warnings: 0
+
+487 row(s) affected Records: 487  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+485 row(s) affected Records: 485  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+486 row(s) affected Records: 486  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+478 row(s) affected Records: 478  Duplicates: 0  Warnings: 0
+
+475 row(s) affected Records: 475  Duplicates: 0  Warnings: 0
+
+474 row(s) affected Records: 474  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+478 row(s) affected Records: 478  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+480 row(s) affected Records: 480  Duplicates: 0  Warnings: 0
+
+479 row(s) affected Records: 479  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+485 row(s) affected Records: 485  Duplicates: 0  Warnings: 0
+
+469 row(s) affected Records: 469  Duplicates: 0  Warnings: 0
+
+468 row(s) affected Records: 468  Duplicates: 0  Warnings: 0
+
+470 row(s) affected Records: 470  Duplicates: 0  Warnings: 0
+
+471 row(s) affected Records: 471  Duplicates: 0  Warnings: 0
+
+477 row(s) affected Records: 477  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+478 row(s) affected Records: 478  Duplicates: 0  Warnings: 0
+
+482 row(s) affected Records: 482  Duplicates: 0  Warnings: 0
+
+486 row(s) affected Records: 486  Duplicates: 0  Warnings: 0
+
+488 row(s) affected Records: 488  Duplicates: 0  Warnings: 0
+
+480 row(s) affected Records: 480  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+481 row(s) affected Records: 481  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+484 row(s) affected Records: 484  Duplicates: 0  Warnings: 0
+
+483 row(s) affected Records: 483  Duplicates: 0  Warnings: 0
+
+481 row(s) affected Records: 481  Duplicates: 0  Warnings: 0
+
+310 row(s) affected Records: 310  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+1333 row(s) affected Records: 1333  Duplicates: 0  Warnings: 0
+
+1392 row(s) affected Records: 1392  Duplicates: 0  Warnings: 0
+
+1433 row(s) affected Records: 1433  Duplicates: 0  Warnings: 0
+
+1458 row(s) affected Records: 1458  Duplicates: 0  Warnings: 0
+
+1470 row(s) affected Records: 1470  Duplicates: 0  Warnings: 0
+
+1464 row(s) affected Records: 1464  Duplicates: 0  Warnings: 0
+
+1479 row(s) affected Records: 1479  Duplicates: 0  Warnings: 0
+
+68 row(s) affected Records: 68  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+1 row(s) affected
+
+0 row(s) affected
+
+1 row(s) affected
+
+0 row(s) affected
+
+1432 row(s) affected Records: 1432  Duplicates: 0  Warnings: 0
+
+1362 row(s) affected Records: 1362  Duplicates: 0  Warnings: 0
+
+1372 row(s) affected Records: 1372  Duplicates: 0  Warnings: 0
+
+1376 row(s) affected Records: 1376  Duplicates: 0  Warnings: 0
+
+1376 row(s) affected Records: 1376  Duplicates: 0  Warnings: 0
+
+1380 row(s) affected Records: 1380  Duplicates: 0  Warnings: 0
+
+1379 row(s) affected Records: 1379  Duplicates: 0  Warnings: 0
+
+1352 row(s) affected Records: 1352  Duplicates: 0  Warnings: 0
+
+1335 row(s) affected Records: 1335  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1309 row(s) affected Records: 1309  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1310 row(s) affected Records: 1310  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1304 row(s) affected Records: 1304  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1304 row(s) affected Records: 1304  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1304 row(s) affected Records: 1304  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1304 row(s) affected Records: 1304  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1303 row(s) affected Records: 1303  Duplicates: 0  Warnings: 0
+
+1302 row(s) affected Records: 1302  Duplicates: 0  Warnings: 0
+
+1305 row(s) affected Records: 1305  Duplicates: 0  Warnings: 0
+
+1306 row(s) affected Records: 1306  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1308 row(s) affected Records: 1308  Duplicates: 0  Warnings: 0
+
+1307 row(s) affected Records: 1307  Duplicates: 0  Warnings: 0
+
+1277 row(s) affected Records: 1277  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1273 row(s) affected Records: 1273  Duplicates: 0  Warnings: 0
+
+1275 row(s) affected Records: 1275  Duplicates: 0  Warnings: 0
+
+1273 row(s) affected Records: 1273  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1275 row(s) affected Records: 1275  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1273 row(s) affected Records: 1273  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1275 row(s) affected Records: 1275  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1274 row(s) affected Records: 1274  Duplicates: 0  Warnings: 0
+
+1255 row(s) affected Records: 1255  Duplicates: 0  Warnings: 0
+
+317 row(s) affected Records: 317  Duplicates: 0  Warnings: 0
+
+0 row(s) affected
+
+1138 row(s) affected Records: 1138  Duplicates: 0  Warnings: 0
+
+1112 row(s) affected Records: 1112  Duplicates: 0  Warnings: 0
+
+1148 row(s) affected Records: 1148  Duplicates: 0  Warnings: 0
+
+1071 row(s) affected Records: 1071  Duplicates: 0  Warnings: 0
+
+1040 row(s) affected Records: 1040  Duplicates: 0  Warnings: 0
+
+1083 row(s) affected Records: 1083  Duplicates: 0  Warnings: 0
+
+1074 row(s) affected Records: 1074  Duplicates: 0  Warnings: 0
+
+1084 row(s) affected Records: 1084  Duplicates: 0  Warnings: 0
+
+1079 row(s) affected Records: 1079  Duplicates: 0  Warnings: 0
+
+1080 row(s) affected Records: 1080  Duplicates: 0  Warnings: 0
+
+1078 row(s) affected Records: 1078  Duplicates: 0  Warnings: 0
+
+1088 row(s) affected Records: 1088  Duplicates: 0  Warnings: 0
+
+1067 row(s) affected Records: 1067  Duplicates: 0  Warnings: 0
+
+1029 row(s) affected Records: 1029  Duplicates: 0  Warnings: 0
+
+1099 row(s) affected Records: 1099  Duplicates: 0  Warnings: 0
+
+1092 row(s) affected Records: 1092  Duplicates: 0  Warnings: 0
+
+1171 row(s) affected Records: 1171  Duplicates: 0  Warnings: 0
+
+1157 row(s) affected Records: 1157  Duplicates: 0  Warnings: 0
+
+1146 row(s) affected Records: 1146  Duplicates: 0  Warnings: 0
+
+1146 row(s) affected Records: 1146  Duplicates: 0  Warnings: 0
+
+1147 row(s) affected Records: 1147  Duplicates: 0  Warnings: 0
+
+1148 row(s) affected Records: 1148  Duplicates: 0  Warnings: 0
+
+1149 row(s) affected Records: 1149  Duplicates: 0  Warnings: 0
+
+1146 row(s) affected Records: 1146  Duplicates: 0  Warnings: 0
+
+1109 row(s) affected Records: 1109  Duplicates: 0  Warnings: 0
+
+1059 row(s) affected Records: 1059  Duplicates: 0  Warnings: 0
+
+683 row(s) affected Records: 683  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+23847 row(s) affected Records: 23847  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+29423 row(s) affected Records: 29423  Duplicates: 0  Warnings: 0
+
+10090 row(s) affected Records: 10090  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+26593 row(s) affected Records: 26593  Duplicates: 0  Warnings: 0
+
+149 row(s) affected Records: 149  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+0 row(s) affected Records: 0  Duplicates: 0  Warnings: 0
+
+23847 row(s) affected Records: 23847  Duplicates: 0  Warnings: 0
+
+1 row(s) affected Records: 1  Duplicates: 0  Warnings: 0
+
+123117 row(s) affected Records: 123117  Duplicates: 0  Warnings: 0
+
+29423 row(s) affected Records: 29423  Duplicates: 0  Warnings: 0
