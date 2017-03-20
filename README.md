@@ -2,7 +2,7 @@
 Repository to report bugs encountered in LoE Realm.
 
 # Issues
-Do not messy this repository, its only for report of bugs and add suggestions.
+Do not mess with this repository, it's only for reporting bugs and adding suggestions.
 
 # Wiki
-Do not messy this page, its for explain tutorials for any private server developer (any difficult).
+Do not mess with this page, it's for in depth tutorials for any private server developer (any difficulty).
