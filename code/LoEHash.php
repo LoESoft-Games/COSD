@@ -1,5 +1,5 @@
 <?
-  if (isset($_GET['d'], $_GET['s'], $_GET['a'], $_GET['r'])) {
+  	if (isset($_GET['d'], $_GET['s'], $_GET['a'], $_GET['r'])) {
 		$random = $_GET['r'];
 		if ($random == "false") {
 			$algorithm = $_GET['a'];
