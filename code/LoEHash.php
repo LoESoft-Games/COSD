@@ -311,5 +311,83 @@
       <input onclick="javascript:disableForm()" id="isBoxChecked" type="checkbox"><b> Random encryption.</b>
       <br>
       <button onclick="javascript:getDataToEncrypt()" type="button"><b>Encrypt!</b></button>
+	<div>
+		<table>
+			<thread>
+				<tr align="left">
+					<th>
+						<b>Data</b>
+					</th>
+					<th>
+						<b>Salt</b>
+					</th>
+					<th>
+						<b>Data + Salt</b>
+					</th>
+				</tr>
+			</thread>
+			<tbody>
+				<tr align="left">
+					<td>
+						<b><? echo $data;?></b>
+					</td>
+					<td>
+						<b><? echo $salt;?></b>
+					</td>
+					<td>
+						<b><? echo $data_salt;?></b>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table>
+			<thread>
+				<tr align="left">
+					<th>
+						<b>Encrypted Data</b>
+					</th>
+				</tr>
+			</thread>
+			<tbody>
+				<tr align="left">
+					<td>
+						<b><? echo $encrypted_data;?></b>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table>
+			<thread>
+				<tr align="left">
+					<th>
+						<b>Encrypted Salt</b>
+					</th>
+				</tr>
+			</thread>
+			<tbody>
+				<tr align="left">
+					<td>
+						<b><? echo $encrypted_salt;?></b>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table>
+			<thread>
+				<tr align="left">
+					<th>
+						<b>Encrypted Hash</b>
+					</th>
+				</tr>
+			</thread>
+			<tbody>
+				<tr align="left">
+					<td>
+						<b><? echo $encrypted_data_salt;?></b>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
     </body>
 </html>
